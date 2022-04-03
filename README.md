@@ -24,7 +24,7 @@ Android Studio Bumblebeeを使用し開発
 職業訓練校で6か月間学習、javaの文法が理解でき簡単なAndroidアプリの開発ができる  
 ・SQL(MariaDB)  
 職業訓練校で6か月間学習、DBの基礎的な考え方が理解できSQL文を扱える  
-・Bitbucket(Sourcetree)  
+・Bitbucket,GitHub(Sourcetree)  
 職業訓練校で6か月間学習、gitの基礎的な考え方が理解でき操作ができる  
 ・python (Anaconda)  
 学生時代の卒業研究に画像解析の用途で使用  
